@@ -30,3 +30,5 @@ python rolling_returns.py
 
 License
 This project is licensed under the MIT License.  
+
+If you'd like to run it without python, download the exe file!
