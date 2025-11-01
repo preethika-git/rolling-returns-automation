@@ -1,0 +1,66 @@
+{
+  "Bajaj Finserv Mutual Fund": {
+    "Overnight": {"Direct": 151849, "Regular": 151851},
+    "Liquid": {"Direct": 151833, "Regular": 151837},
+    "Money Market": {"Direct": 151889, "Regular": 151893},
+    "Banking PSU": {"Direct": 152162, "Regular": 152165},
+    "Gilt": {"Direct": 153206, "Regular": 153211},
+    "Arbitrage": {"Direct": 152077, "Regular": 152078}
+  },
+  "SBI Mutual Fund": {
+    "Overnight": {"Direct": 119833, "Regular": 101206},
+    "Liquid": {"Direct": 119800, "Regular": 105280},  
+    "Money Market": {"Direct": 119821, "Regular": 102503},
+    "Banking PSU": {"Direct": 125503, "Regular": 125503},
+    "Gilt": {"Direct": 119707, "Regular": 101001},
+    "Arbitrage": {"Direct": 119574, "Regular": 104457}
+  },
+ "HDFC Mutual Fund": {
+    "Overnight": {"Direct": 119110, "Regular": 101996},
+    "Liquid": {"Direct": 119091, "Regular": 100868},
+    "Money Market": {"Direct": 119092, "Regular": 101993},
+    "Banking PSU": {"Direct": 128629, "Regular": 128628},
+    "Gilt": {"Direct": 119116, "Regular": 101083},
+    "Arbitrage": {"Direct": 129052, "Regular": 106793}
+},
+"ICICI Prudential Mutual Fund": {
+    "Overnight": {"Direct": 145536, "Regular": 145535},
+    "Liquid": {"Direct": 120197, "Regular": 103340},  
+    "Money Market": {"Direct": 120211, "Regular": 103633},
+    "Banking PSU": {"Direct": 120256, "Regular": 112342},
+    "Gilt": {"Direct": 120590, "Regular": 100369},
+    "Arbitrage": {"Direct": 120364, "Regular": 104683}
+  },
+  "Kotak Mahindra Mutual Fund": {
+    "Overnight": {"Direct": 146141, "Regular": 146142},
+    "Liquid": {"Direct": 119766, "Regular": 100835},  
+    "Money Market": {"Direct": 119746, "Regular": 101893},
+    "Banking PSU": {"Direct": 123693, "Regular": 123690},
+    "Gilt": {"Direct": 119759, "Regular": 100265},
+    "Arbitrage": {"Direct": 119771, "Regular": 105968}
+  },
+ "Nippon India Mutual Fund": {
+    "Overnight": {"Direct": 145810, "Regular": 145811},
+    "Liquid": {"Direct": 118701, "Regular": 100851},
+    "Money Market": {"Direct": 118719, "Regular": 103048},
+    "Banking PSU": {"Direct": 134547, "Regular": 134545},
+    "Gilt": {"Direct": 118672, "Regular": 109720},
+    "Arbitrage": {"Direct": 118585, "Regular": 113345}
+},
+"Aditya Birla Sun Life Mutual Fund": {
+    "Overnight": {"Direct": 145486, "Regular": 145481},
+    "Liquid": {"Direct": 119568, "Regular": 100047},  
+    "Money Market": {"Direct": 119511, "Regular": 101976},
+    "Banking PSU": {"Direct": 119550, "Regular": 108273},
+    "Gilt": {"Direct": 119605, "Regular": 100058},
+    "Arbitrage": {"Direct": 119526, "Regular": 112088}
+  },
+"Axis Mutual Fund": {
+    "Overnight": {"Direct": 146675, "Regular": 146678},
+    "Liquid": {"Direct": 120389, "Regular": 112210},  
+    "Money Market": {"Direct": 147567, "Regular": 147568},
+    "Banking PSU": {"Direct": 120438, "Regular": 117446},
+    "Gilt": {"Direct": 120447, "Regular": 116471},
+    "Arbitrage": {"Direct": 130773, "Regular": 130771}
+  }
+}
